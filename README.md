@@ -34,3 +34,5 @@ These positions are then plotted on the digital map to give a real-time represen
 Consideration is given to real-time obstacles, ensuring the robot avoids any obstruction.
 
 *5. Communication to the Robot:* The computed path is sent back to the robot for guiding it through the museum.
+
+If you need help, easily raise an issue. Or come to me by *ocean.h.li@bristol.ac.uk*.
